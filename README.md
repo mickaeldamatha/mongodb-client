@@ -4,14 +4,5 @@ This is my mongoDB interface template.
 
 ### TO DO
 
-- Implement server to secure transactions
-- Build a cluster for redondancy
-
-# COMMANDS
-
-Docker-compose:
-
-- docker-compose build
-- docker-compose up -b
-- docker-compose stop
-- docker-compose rm
+- Add security features.
+- Build collection handlers matching your needs following users handler example.
